@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+librosa
+ipywidgets
+ipython
+pandas
+seaborn
+Pillow
