@@ -1,3 +1,5 @@
+![IIT Kanpur](https://img.shields.io/badge/IIT_Kanpur-Perception_&_Intelligence_Lab-blue.svg)
+
 # Frequency-Domain Image Fusion and Audio De-Mixing
 
 An engineering and research notebook exploring advanced signal processing techniques applied to image and audio data. 
